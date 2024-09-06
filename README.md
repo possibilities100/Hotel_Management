@@ -1,4 +1,4 @@
-# Hotel_Mnaagement
+# Hotel_Management
 A simple and sober hotel management software that eases your daily life
 
 
