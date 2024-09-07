@@ -1,8 +1,8 @@
 # Hotel_Management
-# A simple and sober hotel management software that # eases your daily life
+A simple and sober hotel management software that eases your daily life
 
 
-# This helps you in preparing and managing a stress # free data for Hotel Management made entirely using # python.
+# This helps you in preparing and managing a stress free data for Hotel Management made entirely using python.
 
 Steps for execution
 1. Install python 3
